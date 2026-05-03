@@ -1,3 +1,14 @@
+# plus4cart
+This is an even more modernized (SMD-only) version of the C264Cart.
+
+I removed the through-hole jumpers and other through-hole components and replaced them with SMD versions. Only the (E)EPROM remains as a trough-hole component.
+
+The dimensions of the PCB remain unchanged and it should still fit into the [original looking cartridge case](https://www.thingiverse.com/thing:3657002).
+
+![Test fit in case](media/plus4cart-case.png)
+
+Original README below
+
 # C264Cart
 
 The C264Cart ist a modernized ROM cartridge for the Commodore 264 family of 8-bit computers, the Commodore C16, C116, and Plus/4.
