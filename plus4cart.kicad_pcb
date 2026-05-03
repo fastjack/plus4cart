@@ -8,12 +8,13 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "C264Cart")
-		(date "2023-11-28")
+		(title "plus4cart")
+		(date "2026-05-03")
 		(rev "1")
-		(company "www.hackup.net")
+		(company "maciaszek.net")
 		(comment 1 "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.")
 		(comment 2 "This work is licensed under a")
+		(comment 3 "Based on C264Cart made by hackup.net")
 	)
 	(layers
 		(0 "F.Cu" signal)

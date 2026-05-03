@@ -5,12 +5,13 @@
 	(uuid "7006651b-1f52-4ff6-87a6-d875cc82c860")
 	(paper "A4")
 	(title_block
-		(title "C264Cart")
-		(date "2023-11-28")
+		(title "plus4cart")
+		(date "2026-05-03")
 		(rev "1")
-		(company "www.hackup.net")
+		(company "maciaszek.net")
 		(comment 1 "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.")
 		(comment 2 "This work is licensed under a")
+		(comment 3 "Based on C264Cart made by hackup.net")
 	)
 	(lib_symbols
 		(symbol "Device:C"
