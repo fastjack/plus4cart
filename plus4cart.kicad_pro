@@ -514,7 +514,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "C264Cart.kicad_pro",
+    "filename": "plus4cart.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -576,7 +576,7 @@
       "idf": "",
       "netlist": "",
       "plot": "gerber/",
-      "specctra_dsn": "C264Cart.dsn",
+      "specctra_dsn": "plus4cart.dsn",
       "step": "",
       "vrml": ""
     },
@@ -701,8 +701,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "C264Cart.kicad_sch",
-        "name": "C264Cart",
+        "filename": "plus4cart.kicad_sch",
+        "name": "plus4cart",
         "uuid": "7006651b-1f52-4ff6-87a6-d875cc82c860"
       }
     ],

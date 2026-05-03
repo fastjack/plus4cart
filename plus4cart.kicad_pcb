@@ -216,7 +216,7 @@
 		(property ki_fp_filters "DIP*W15.24mm* PLCC*")
 		(path "/dd7d7da2-0ee8-4760-a316-6f57ea42446f")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -793,7 +793,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -904,7 +904,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/0672e1d0-cf84-4a5a-bc00-8e3ff1531d36")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1229,7 +1229,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/6a910269-d7dc-4b55-be05-ca7ee63550ba")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1600,7 +1600,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/af8b1267-104d-4a1b-8703-1249542d4aa1")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1946,7 +1946,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5f92849e-fd8a-406a-8124-1cddabf04331")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2091,7 +2091,7 @@
 		)
 		(path "/fc336ab1-b229-49c5-b065-735c2ccbb1c7")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2855,7 +2855,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/15100cfe-3708-4596-bb5e-5ac8562dfab2")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3208,7 +3208,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/2a19b1ff-11c6-4046-ac75-8c3cb300ef8f")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3577,7 +3577,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/39f88cd0-463c-4bda-ad95-c6d1f0ae84b8")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3930,7 +3930,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7c1ebc62-91c8-4ee2-bd1a-a60066112274")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4139,7 +4139,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5b9770a3-d031-40bc-9135-6b3d44d21de2")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4456,7 +4456,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/4d43b230-0dbc-4c69-b956-4d9ce16a9bb4")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4768,7 +4768,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/2a7e8adf-1e11-4d34-8ed4-ddbf3f496253")
 		(sheetname "/")
-		(sheetfile "C264Cart.kicad_sch")
+		(sheetfile "plus4cart.kicad_sch")
 		(units
 			(unit
 				(name "A")
